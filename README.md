@@ -20,7 +20,7 @@
 <table><tr><td valign="top" width="33%">
 
 #### Frontend  
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,jquery)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vite,tailwind,jquery)](https://skillicons.dev)
 
 #### Backend  
 [![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,sql,mysql)](https://skillicons.dev)
