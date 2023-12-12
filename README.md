@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jesse Lare - Full Stack Web Developement, Lighting Controls, Audio & Music Production
 
 ## About Me
-🚀 I'm a passionate Full-Stack Developer specializing in the MERN stack. Crafting dynamic, responsive web applications is my goal. I love taking on challenging projects that require thinking outside the box. I'm also skilled in lighting control systems, audio, and music production.
+🚀 As a dedicated Full-Stack Developer, I specialize in the MERN stack, focusing on creating dynamic and responsive web applications. My passion lies in tackling complex projects that demand innovative and creative problem-solving. In addition to web development, I am skilled in lighting control systems, along with a strong background in audio and music production.
 
 🌐 Check out my portfolio: [My Portfolio](https://jl-react-portfolio.netlify.app/)
 
