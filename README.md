@@ -13,8 +13,8 @@
 - 📢 Sharing: COMING SOON..
 
 ### Connect With Me
-- LinkedIn: [My LinkedIn](www.linkedin.com/in/jesselare)
-- Email: [my email](mailto:twelvedust@outlook.com)
+- LinkedIn: [Jesse Lare](www.linkedin.com/in/jesselare)
+- Email: [Here](mailto:twelvedust@outlook.com)
 
 ### My Skill Set
 <table><tr><td valign="top" width="33%">
