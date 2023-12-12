@@ -20,12 +20,12 @@
 <table><tr><td valign="top" width="33%">
 
 #### Frontend  
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vite,tailwind,jquery,babel&perline=5)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vite,tailwind,jquery,babel&perline=10)](https://skillicons.dev)
 
 #### Backend  
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=5)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=10)](https://skillicons.dev)
 
 #### Tools & Technologies  
-[![Tools](https://skillicons.dev/icons?i=git,bash,visualstudio,github,netlify,postman,md,githubactions,gitlab,graphql,heroku,jest,lua&perline=5)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,bash,visualstudio,github,netlify,postman,md,githubactions,gitlab,graphql,heroku,jest,lua&perline=10)](https://skillicons.dev)
 
 
