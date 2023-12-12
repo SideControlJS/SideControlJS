@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Jesse Lare - Full Stack Web Developement, Lighting Controls, Audio & Music Production
 
 ![GitHub followers](https://img.shields.io/github/followers/SideControlJS?style=social)
-![GitHub stars](https://img.shields.io/github/stars/SideControlJS?style=social)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SideControlJS.SideControlJS)
-
 
 ## About Me
 🚀 As a dedicated Full-Stack Developer, I specialize in the MERN stack, focusing on creating dynamic and responsive web applications. My passion lies in tackling complex projects that demand innovative and creative problem-solving. In addition to web development, I am skilled in lighting control systems, along with a strong background in audio and music production.
