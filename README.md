@@ -23,7 +23,7 @@
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vite,tailwind,jquery,babel)](https://skillicons.dev)
 
 #### Backend  
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,sql,mysql)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)](https://skillicons.dev)
 
 #### Tools & Technologies  
 [![Tools](https://skillicons.dev/icons?i=git,bash,visualstudio,github,netlify,postman,md,githubactions,gitlab,graphql,heroku,jest,lua)](https://skillicons.dev)
