@@ -20,25 +20,12 @@
 <table><tr><td valign="top" width="33%">
 
 #### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="(https://skillicons.dev/icons?i=react)](https://skillicons.dev)L" alt="React" height="50" />  
-<img style="margin: 10px" src="(https://skillicons.dev/icons?i=html)](https://skillicons.dev)" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="(https://skillicons.dev/icons?i=css)](https://skillicons.dev)" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="(https://skillicons.dev/icons?i=js)](https://skillicons.dev)" alt="JavaScript" height="50" />  
-</div></td><td valign="top" width="33%">
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,jquery)](https://skillicons.dev)
 
 #### Backend  
-<div align="center">  
-<img style="margin: 10px" src="(https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="(https://skillicons.dev/icons?i=express)](https://skillicons.dev)" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="(https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)" alt="MongoDB" height="50" />  
-</div></td><td valign="top" width="33%">
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,sql,mysql)](https://skillicons.dev)
 
 #### Tools & Technologies  
-<div align="center">  
-<img style="margin: 10px" src="(https://skillicons.dev/icons?i=git)](https://skillicons.dev)" alt="Git" height="50" />  
-<img style="margin: 10px" src="(https://skillicons.dev/icons?i=github)](https://skillicons.dev)" alt="GitHub" height="50" />  
-<img style="margin: 10px" src="(https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)" alt="VSCode" height="50" />  
-</div></td></tr></table>  
+[![Tools](https://skillicons.dev/icons?i=git,bash,visualstudio,github,netlify,postman,md,)](https://skillicons.dev)
 
 
