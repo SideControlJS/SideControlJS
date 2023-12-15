@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jesse Lare - Full Stack Web Developement, Lighting Controls, Audio & Music Production
+# 🤘 Hi, I'm Jesse
 
 ![GitHub followers](https://img.shields.io/github/followers/SideControlJS?style=social)
 
