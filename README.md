@@ -8,7 +8,7 @@
 🌐 Check out my portfolio: [My Portfolio](https://jl-react-portfolio.netlify.app/)
 
 ### What I'm Up To
-- 🔧 Developing: [Quest Log](https://github.com/Ricky-Sama/Quest-Log)
+- 🔧 Developing: [Quest Log](https://github.com/SideControlJS/tracker)
 - 📚 Learning: Advanced State Management in React, Microservices with Node.js
 - 👨‍💻 Collaborating: Open to innovative MERN stack projects and more
 - 💡 Exploring: AI Integration in Web Apps
