@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/SideControlJS?style=social)
 
 ## About Me
-🚀 As a dedicated Full-Stack Developer, I specialize in the MERN stack, focusing on creating dynamic and responsive web applications. I have a passion for tackling challenging and creative projects. In addition to web development, I am skilled in lighting control systems, along with a strong background in audio and music production.
+I have a passion creating dynamic and responsive web applications and software tools. I enjoy doing hard things; tackling challenging and creative projects. In addition to web development, I'm a lighting controls engineer & programmer, along with a strong background in audio and music production. When I'm not learning and getting better at a software development I enjoy motorcycle rides, training, and instructing Brazilian Jiu-Jitsu. 
 
 🌐 Check out my portfolio: [My Portfolio](https://jl-react-portfolio.netlify.app/)
 
