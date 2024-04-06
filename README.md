@@ -5,12 +5,11 @@
 ## About Me
 I have a passion for creating dynamic and responsive web applications and software tools. I enjoy doing hard things in general, and I never stop learning new things. In addition to web development, I'm a lighting controls engineer & programmer, along with a strong background in audio and music production. When I'm not learning and getting better at a software development I enjoy motorcycle rides, training, and instructing Brazilian Jiu-Jitsu. 
 
-🌐 Check out my portfolio: [My Portfolio](https://jl-react-portfolio.netlify.app/)
 
 ### What I'm Up To
-- 🔧 Developing: ["Tracker"](https://github.com/SideControlJS/tracker)
+- 🔧 Developing: [Jiu-Jitsu Gym Website](https://github.com/SideControlJS/GJJNC)
 - 📚 Learning: Advanced State Management in React, Microservices with Node.js
-- 👨‍💻 Collaborating: Open to innovative MERN stack projects and more
+- 👨‍💻 Collaborating: HMU
 - 💡 Exploring: AI Integration in Web Apps
 - 📢 Sharing: COMING SOON..
 
