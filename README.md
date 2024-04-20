@@ -14,7 +14,6 @@ I have a passion for creating dynamic and responsive web applications and softwa
 
 ### Connect With Me
 - LinkedIn: [Jesse Lare](www.linkedin.com/in/jesselare)
-- Email: [Here](mailto:twelvedust@outlook.com)
 
 ### My Skill Set
 <table><tr><td valign="top" width="33%">
