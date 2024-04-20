@@ -9,7 +9,6 @@ I have a passion for creating dynamic and responsive web applications and softwa
 ### What I'm Up To
 - 🔧 Developing: [Jiu-Jitsu Gym Website](https://github.com/SideControlJS/Jiu-Jitsu-Website-v1.0)
 - 📚 Learning: Advanced State Management in React, Microservices with Node.js
-- 👨‍💻 Collaborating: HMU
 - 💡 Exploring: AI Integration in Web Apps
 - 📢 Sharing: COMING SOON..
 
